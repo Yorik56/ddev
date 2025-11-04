@@ -1,0 +1,15 @@
+# Drupal
+/web/sites/default/files
+/web/core
+/web/modules/contrib
+/web/profiles/contrib
+/web/sites/default/files
+/vendor/
+# DDEV
+.ddev/db_snapshots/
+.ddev/commands/
+.ddev/.importdb/
+.ddev/.downloads/
+# Editor
+.editorconfig
+
